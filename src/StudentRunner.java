@@ -3,5 +3,6 @@ public class StudentRunner {
         Student student1 = new Student("Jarvis", 16, "Math");
         student1.introduce();
         student1.school();
+        System.out.println("That is the end of the program.");
     }
 }
